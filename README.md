@@ -7,7 +7,7 @@ Models organized in two folders:
 - Seq2Seq: Takes in a sequence of frames and other data, and outputs a sequence of predicted positions for a player. This approach was much more effective than frame by frame prediction. Actual submissions are in here
 
 Other notes:
-  File paths start with "./kaggle" in my working directory, but must be changed to "/kaggle" when submitting on kaggle.
-  Submitted notebook on kaggle is different than on github because submissions must use the NFL's submission server and API.
-  Models in this repo were trained evaluated locally (on my Mac).
+- File paths start with "./kaggle" in my working directory, but must be changed to "/kaggle" when submitting on kaggle.
+- Submitted notebook on kaggle is different than on github because submissions must use the NFL's submission server and API.
+- Models in this repo were trained evaluated locally (on my Mac).
   
