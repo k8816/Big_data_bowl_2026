@@ -51,6 +51,8 @@ Ultimately the design of this model was to facilitate long and short sequential 
 
 ![Alt text](BDBModelDiagram.png)
 
+Tenseor transpositions, squeezes, and stacks not included in diagram.
+
 Results:
 Submissions
 - best_model (hidden_dim = 64):
