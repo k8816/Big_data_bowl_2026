@@ -49,7 +49,7 @@ Trained using one play at a time because it was the easiest way to make dimensio
 
 Ultimately the design of this model was to facilitate long and short sequential pattern based recognition through the multiple CNNs as well as other hard to capture relationships with the LSTM encoders. The decoder's advantages is using the previous output to make the next output and using the memory map as well as hidden states to guide y0 in the right direction.
 
-![Alt text](Seq2Seq/BDBModelDiagram.png)
+![Alt text](BDBModelDiagram.png)
 
 Results:
 Submissions
