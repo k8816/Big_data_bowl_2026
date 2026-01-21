@@ -56,12 +56,14 @@ Tenseor transpositions, squeezes, and stacks not included in diagram.
 Results:
 Submissions
 - best_model (hidden_dim = 64):
-  - local approx RMSE (trained after competition): .65
   - local approx RMSE (at time of submission): .80
   - competition RMSE: .79708
 - submitted model (hidden_dim = 64):
   - competition RMSE: .81202
- 
+- MS-CNN-LSTM-Seq2Seq-10 (hidden_dim = 64):
+  - competition RMSE (trained after competition): .69222
+
+  
 Other experiments
 - hidden_dim = 32: local approx RMSE: .83
 - hidden_dim = 128: .97
