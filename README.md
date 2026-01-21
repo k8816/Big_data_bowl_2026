@@ -13,3 +13,5 @@ Other notes:
 - The competition calculated RMSE using an n-value of around 6,000 frames. Some notebooks use n-values greater than 6,000, so the competition score RMSE may be greater than what is printed.
 - Some AI assistance with data engineering and Frame-by-frame model design.
 - All Seq2seq model designs are original.
+
+Please start by reading Seq2Seq/S2S.md
