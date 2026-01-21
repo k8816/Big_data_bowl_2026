@@ -10,7 +10,7 @@ Other notes:
 - File paths start with "./kaggle" in my working directory, but must be changed to "/kaggle" when submitting on kaggle.
 - Submitted notebook on kaggle is different than on github because submissions must use the NFL's submission server and API.
 - Models in this repo were trained evaluated locally (on my Mac).
-- The competition calculated RMSE using an n-value of around 6,000 frames. Some notebooks use n-values greater than 6,000, so the competition score RMSE may be greater than what is printed.
+- The competition calculated RMSE using an n-value of around 6,000 frames. Some notebooks use n-values less than 6,000, so the competition score RMSE may be greater than what is printed.
 - Some AI assistance with data engineering and Frame-by-frame model design.
 - All Seq2seq model designs are original.
 
